@@ -1,0 +1,48 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "scenario": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "transplant_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "months_post_transplant": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "longitudinal_patient_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "visit_number": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "messages": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "num_turns": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
